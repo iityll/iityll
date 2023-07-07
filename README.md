@@ -1,3 +1,8 @@
+<a href="https://github.com/iityll">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=iityll&column=7&theme=onedark"/>
+  </p>
+</a>
 <!--
 **iityll/iityll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,11 +29,7 @@ Here are some ideas to get you started:
 - [E-Mail](mailto:750733464@qq.com)
 - [Telegram Channel](https://XXXX)
 
-<a href="https://github.com/iityll">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=iityll&column=7&theme=onedark"/>
-  </p>
-</a>
+
 
 # 👋 iityll
 <img align="right" src="https://metrics.lecoq.io/iityll?template=terminal" />
