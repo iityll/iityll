@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - [My Blog](https://github.com/iityll)
 - [E-Mail](mailto:750733464@qq.com)
-- [Telegram Channel](https://t.me/XXXX)
+- [Telegram Channel](https://XXXX)
 
 <a href="https://github.com/iityll">
   <p align="center">
