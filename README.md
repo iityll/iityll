@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **Where to find me**
 
-- [My Blog](https://baidu.com)
+- [My Blog](https://github.com/iityll)
 - [E-Mail](mailto:750733464@qq.com)
 - [Telegram Channel](https://t.me/XXXX)
 
