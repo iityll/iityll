@@ -8,11 +8,11 @@
 <img align="right" src="https://metrics.lecoq.io/iityll?template=terminal" />
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=iityll&theme=vue-dark&count_private=true&show_icons=true" />
 
-## ℹ️ 关于我
+## ℹ️ about me
 
 一台电脑,一个键盘,尽情挥洒智慧的人生; 几行数字,几个字母,认真编写生活的美好
 
-## 📖 永远学不完的
+## 📖 to be learn
 
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
@@ -26,7 +26,7 @@
 ![redis](https://img.shields.io/badge/Redis-5.0+-yellow)
 
 
-## 🏗️ 最近正在做的
+## 🏗️ Doing
 
 * [Linux-to-Learn][(https://github.com/iityll/Linux-to-Learn)]
 * [external-storage][(https://github.com/iityll/external-storage)]
