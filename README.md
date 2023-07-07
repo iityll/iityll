@@ -4,7 +4,7 @@
   </p>
 </a>
 
-# 👋 YiJie
+# 👋 iityll
 <img align="right" src="https://metrics.lecoq.io/iityll?template=terminal" />
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=iityll&theme=vue-dark&count_private=true&show_icons=true" />
 
