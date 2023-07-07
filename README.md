@@ -19,7 +19,7 @@
 <code><img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 ## html
-<img src="https://raster.shields.io/badge/Maven-3.1+-red">
+<code><img src="https://raster.shields.io/badge/Maven-3.1+-red"></code>
 ## markdown
 ![redis](https://img.shields.io/badge/Redis-5.0+-yellow)
 
